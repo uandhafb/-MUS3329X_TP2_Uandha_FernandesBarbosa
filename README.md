@@ -1,3 +1,9 @@
+#Video Link: 
+
+Presentation + Demo
+
+https://drive.google.com/file/d/1lkdrp8SAnbkuuQWoDYYXJcbsO6yatnzr/view?usp=sharing
+
 # Face OSC Stream (MediaPipe -> Max/MSP)
 
 This project captures face features from a webcam using MediaPipe Face Landmarker and sends them via OSC (UDP), so you can train a small neural network in Max/MSP.
